@@ -159,12 +159,12 @@ div[id^=workspace-node-tree-][id$=-bodyWrap] > div[id^=workspace-node-tree-][id$
     background-color: #232323;
     color: #f8f8f2; 
     height: auto;
-    outline: none;
+    /*outline: none;*/
 }
 
 .x-grid-cell{
-    border: none;
-    outline: unset; 
+    /*border: none;
+    outline: unset;*/ 
     background-color: #232323;
     color: #f8f8f2;
     height: auto;
